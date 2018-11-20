@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/cweise/styled-material-ui/issues"
   },
-  "homepage": "https://github.com/cweise/styled-material-ui#readme"
+  "homepage": "https://github.com/cweise/styled-material-ui#readme",
+  "dependencies": {
+    "@material-ui/core": "^3.5.1",
+    "styled-components": "^4.1.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
 }
