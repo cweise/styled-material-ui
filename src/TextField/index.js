@@ -1,9 +1,11 @@
 import React from "react";
 import TextField from "@material-ui/core/TextField";
-import { styles } from "@material-ui/core/FormControl/FormControl";
-import {inputProps} from '../Input'
-import { getClasses } from "../utils";
+import {inputProps} from '../Input';
+import {inputLabelProps} from '../InputLabel';
+import {formHelperTextProps} from '../FormHelperTextProps';
+import {formControlProps} from '../FormControl';
+
 
 export default ({ ...rest }) => (
-  <TextField classes={getClasses(styles)} InputProps={inputProps} {...rest} />
+  <TextField classes={formControlProps} InputProps={inputProps} InputLabelProps={inputLabelProps} FormHelperTextProps={formHelperTextProps} {...rest} />
 );
