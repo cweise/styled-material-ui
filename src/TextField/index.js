@@ -5,7 +5,6 @@ import {inputLabelProps} from '../InputLabel';
 import {formHelperTextProps} from '../FormHelperTextProps';
 import {formControlProps} from '../FormControl';
 
-
 export default ({ ...rest }) => (
   <TextField classes={formControlProps} InputProps={inputProps} InputLabelProps={inputLabelProps} FormHelperTextProps={formHelperTextProps} {...rest} />
 );
