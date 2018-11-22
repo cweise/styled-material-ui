@@ -22,3 +22,5 @@ CHANGELOG.md
 .eslintrc
 .babelrc
 .gitignore
+.storybook
+.cache

@@ -7,7 +7,7 @@ import { formControlProps } from "../FormControl";
 
 export default ({ ...rest }) => (
   <TextField
-    classes={formControlProps}
+    {...formControlProps}
     InputProps={inputProps}
     InputLabelProps={inputLabelProps}
     FormHelperTextProps={formHelperTextProps}

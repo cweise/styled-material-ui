@@ -7,6 +7,4 @@ export const formControlProps = {
   classes: getClasses(styles)
 };
 
-export default ({ ...rest }) => (
-  <FormControl classes={formControlProps} {...rest} />
-);
+export default ({ ...rest }) => <FormControl {...formControlProps} {...rest} />;
