@@ -1,4 +1,5 @@
 export { default as AppBar } from "./AppBar";
+export { default as Button } from "./Button";
 export { default as FormControl } from "./FormControl";
 export { default as FormHelperText } from "./FormHelperText";
 export { default as Input } from "./Input";
