@@ -2,8 +2,10 @@ import React from "react";
 import AppBar from "@material-ui/core/AppBar";
 import { styles } from "@material-ui/core/AppBar/AppBar";
 
-import { getClasses } from "../utils";
+import { getClasses, defaultTheme } from "../utils";
 
-export default ({ ...rest }) => (
-  <AppBar classes={getClasses(styles)} {...rest} />
-);
+export const appBarProps = {
+  classes: getClasses(styles(defaultTheme))
+};
+
+export default ({ ...rest }) => <AppBar {...appBarProps} {...rest} />;
