@@ -1,10 +1,10 @@
 import React from "react";
 import FormHelperText from "@material-ui/core/FormHelperText";
 import { styles } from "@material-ui/core/FormHelperText/FormHelperText";
-import { getClasses, defaultTheme } from "../utils";
+import { getClasses, getStyles } from "../utils";
 
 export const formHelperTextProps = {
-  classes: getClasses(styles(defaultTheme))
+  classes: getClasses(getStyles(styles))
 };
 
 export default ({ ...rest }) => (

@@ -14,3 +14,6 @@ export const defaultTheme = createMuiTheme({
     useNextVariants: true
   }
 });
+
+export const getStyles = styles =>
+  typeof styles === "function" ? styles(defaultTheme) : styles;

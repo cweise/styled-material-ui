@@ -8,6 +8,7 @@
   },
   "rules": {
     "react/jsx-filename-extension": "off",
-    "import/prefer-default-export": false
+    "import/prefer-default-export": false,
+    "import/no-extraneous-dependencies": false
   }
 }
