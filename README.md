@@ -55,9 +55,9 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [x] [Backdrop](https://material-ui.com/api/backdrop/#css-api)
 - [x] [Badge](https://material-ui.com/api/badge/#css-api)
 - [x] [BottomNavigation](https://material-ui.com/api/bottom-navigation/#css-api)
-- [ ] BottomNavigationAction
+- [x] BottomNavigationAction
 - [x] [Button](https://material-ui.com/api/button/#css-api)
-- [ ] ButtonBase
+- [x] ButtonBase
 - [ ] Card
 - [ ] CardActionArea
 - [ ] CardActions
@@ -148,6 +148,6 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [x] [TextField](https://material-ui.com/api/text-field/#css-api)
 - [ ] Toolbar
 - [ ] Tooltip
-- [ ] TouchRipple
+- [x] TouchRipple
 - [ ] Typography
 - [ ] Zoom
