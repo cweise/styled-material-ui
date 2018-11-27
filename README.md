@@ -139,7 +139,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [x] [Table](https://material-ui.com/api/table/#css-api)
 - [x] [TableBody](https://material-ui.com/api/table-body/#css-api)
 - [x] [TableCell](https://material-ui.com/api/table-cell/#css-api)
-- [ ] TableFooter
+- [x] [TableFooter](https://material-ui.com/api/table-footer/#css-api)
 - [ ] TableHead
 - [ ] TablePagination
 - [ ] TableRow
