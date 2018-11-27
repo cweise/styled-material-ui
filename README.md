@@ -136,7 +136,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] SwipeableDrawer
 - [ ] Switch
 - [ ] Tab
-- [ ] Table
+- [x] [Table](https://material-ui.com/api/table/#css-api)
 - [ ] TableBody
 - [ ] TableCell
 - [ ] TableFooter
