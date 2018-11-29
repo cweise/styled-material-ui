@@ -132,7 +132,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] StepIcon
 - [ ] StepLabel
 - [ ] Stepper
-- [ ] SvgIcon
+- [x] [SvgIcon](https://material-ui.com/api/svg-icon/#css-api)
 - [ ] SwipeableDrawer
 - [ ] Switch
 - [ ] Tab
