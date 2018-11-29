@@ -136,13 +136,13 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] SwipeableDrawer
 - [ ] Switch
 - [ ] Tab
-- [ ] Table
-- [ ] TableBody
-- [ ] TableCell
-- [ ] TableFooter
-- [ ] TableHead
+- [x] [Table](https://material-ui.com/api/table/#css-api)
+- [x] [TableBody](https://material-ui.com/api/table-body/#css-api)
+- [x] [TableCell](https://material-ui.com/api/table-cell/#css-api)
+- [x] [TableFooter](https://material-ui.com/api/table-footer/#css-api)
+- [x] [TableHead](https://material-ui.com/api/table-head/#css-api)
 - [ ] TablePagination
-- [ ] TableRow
+- [x] [TableRow](https://material-ui.com/api/table-row/#css-api)
 - [ ] TableSortLabel
 - [ ] Tabs
 - [x] [TextField](https://material-ui.com/api/text-field/#css-api)
