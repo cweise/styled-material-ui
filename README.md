@@ -93,7 +93,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] GridListTileBar
 - [ ] Grow
 - [ ] Hidden
-- [ ] Icon
+- [x] [Icon](https://material-ui.com/api/icon/#css-api)
 - [ ] IconButton
 - [x] [Input](https://material-ui.com/api/input/#css-api)
 - [ ] InputAdornment
