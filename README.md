@@ -2,6 +2,12 @@
 
 Style material ui components with the awesome styled-components library.
 
+## How to install
+
+```console
+npm install @thepeaklab/styled-material-ui --save
+```
+
 ## How does it work
 
 Material UI has its own documentation for the integration of the styled-components library. However, one quickly notices that subordinate components cannot be addressed directly. This is possible with this library.
