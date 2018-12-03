@@ -107,7 +107,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] ListItemText
 - [ ] ListSubheader
 - [ ] Menu
-- [ ] MenuItem
+- [x] [MenuItem](https://material-ui.com/api/menu-item/#css-api)
 - [ ] MenuList
 - [ ] MobileStepper
 - [ ] Modal
