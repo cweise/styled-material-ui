@@ -74,7 +74,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] Chip
 - [ ] CircularProgress
 - [ ] ClickAwayListener
-- [ ] Collapse
+- [x] [Collapse](https://material-ui.com/api/collapse/#css-api)
 - [ ] CssBaseline
 - [ ] Dialog
 - [ ] DialogActions
@@ -83,7 +83,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] DialogTitle
 - [ ] Divider
 - [ ] Drawer
-- [ ] ExpansionPanel
+- [x] [ExpansionPanel](https://material-ui.com/api/expansion-panel/#css-api)
 - [ ] ExpansionPanelActions
 - [ ] ExpansionPanelDetails
 - [ ] ExpansionPanelSummary
@@ -105,16 +105,16 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] InputAdornment
 - [x] [InputLabel](https://material-ui.com/api/input-label/#css-api)
 - [ ] LinearProgress
-- [ ] List
+- [x] [List](https://material-ui.com/api/list/#css-api)
 - [ ] ListItem
 - [ ] ListItemAvatar
 - [ ] ListItemIcon
 - [ ] ListItemSecondaryAction
 - [ ] ListItemText
 - [ ] ListSubheader
-- [ ] Menu
+- [x] [Menu](https://material-ui.com/api/menu/#css-api)
 - [x] [MenuItem](https://material-ui.com/api/menu-item/#css-api)
-- [ ] MenuList
+- [x] [MenuList](https://material-ui.com/api/menu-list/#css-api)
 - [ ] MobileStepper
 - [ ] Modal
 - [ ] MuiThemeProvider
@@ -127,7 +127,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] Radio
 - [ ] RadioGroup
 - [ ] RootRef
-- [ ] Select
+- [x] [Select](https://material-ui.com/api/select/#css-api)
 - [ ] Slide
 - [ ] Snackbar
 - [ ] SnackbarContent
