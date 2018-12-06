@@ -13,6 +13,7 @@ export { default as List } from "./List";
 export { default as Menu } from "./Menu";
 export { default as MenuItem } from "./MenuItem";
 export { default as MenuList } from "./MenuList";
+export { default as Paper } from "./Paper";
 export { default as Select } from "./Select";
 export { default as SvgIcon } from "./SvgIcon";
 export { default as Table } from "./Table";
