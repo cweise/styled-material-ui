@@ -120,6 +120,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] MuiThemeProvider
 - [ ] NativeSelect
 - [ ] NoSsr
+- [x] [OutlinedInput](https://material-ui.com/api/outlined-input/#css-api)
 - [ ] Paper
 - [ ] Popover
 - [ ] Popper
