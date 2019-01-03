@@ -71,7 +71,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] CardHeader
 - [ ] CardMedia
 - [ ] Checkbox
-- [ ] Chip
+- [x] [Chip](https://material-ui.com/api/chip/#css-api)
 - [ ] CircularProgress
 - [ ] ClickAwayListener
 - [x] [Collapse](https://material-ui.com/api/collapse/#css-api)
