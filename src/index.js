@@ -5,6 +5,7 @@ export { default as Button } from "./Button";
 export { default as Chip } from "./Chip";
 export { default as Collapse } from "./Collapse";
 export { default as ExpansionPanel } from "./ExpansionPanel";
+export { default as Fab } from "./Fab";
 export { default as FormControl } from "./FormControl";
 export { default as FormHelperText } from "./FormHelperText";
 export { default as Icon } from "./Icon";
