@@ -87,6 +87,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] ExpansionPanelActions
 - [ ] ExpansionPanelDetails
 - [ ] ExpansionPanelSummary
+- [x] [Fab](https://material-ui.com/api/fab/#fab-api)
 - [ ] Fade
 - [x] [FormControl](https://material-ui.com/api/form-control/#css-api)
 - [ ] FormControlLabel
