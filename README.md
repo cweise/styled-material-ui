@@ -56,14 +56,14 @@ export default () => <StyledButton color="primary" variant="contained" />;
 
 ## Available Material-UI Components
 
-- [x] [AppBar](https://material-ui.com/api/app-bar/#css-api)
-- [x] [Avatar](https://material-ui.com/api/avatar/#css-api)
-- [x] [Backdrop](https://material-ui.com/api/backdrop/#css-api)
-- [x] [Badge](https://material-ui.com/api/badge/#css-api)
-- [x] [BottomNavigation](https://material-ui.com/api/bottom-navigation/#css-api)
-- [x] [BottomNavigationAction](https://material-ui.com/api/bottom-navigation-action/#css-api)
-- [x] [Button](https://material-ui.com/api/button/#css-api)
-- [x] [ButtonBase](https://material-ui.com/api/button-base/#css-api)
+- [x] [AppBar](https://material-ui.com/api/app-bar/#css)
+- [x] [Avatar](https://material-ui.com/api/avatar/#css)
+- [x] [Backdrop](https://material-ui.com/api/backdrop/#css)
+- [x] [Badge](https://material-ui.com/api/badge/#css)
+- [x] [BottomNavigation](https://material-ui.com/api/bottom-navigation/#css)
+- [x] [BottomNavigationAction](https://material-ui.com/api/bottom-navigation-action/#css)
+- [x] [Button](https://material-ui.com/api/button/#css)
+- [x] [ButtonBase](https://material-ui.com/api/button-base/#css)
 - [ ] Card
 - [ ] CardActionArea
 - [ ] CardActions
@@ -71,10 +71,10 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] CardHeader
 - [ ] CardMedia
 - [ ] Checkbox
-- [x] [Chip](https://material-ui.com/api/chip/#css-api)
+- [x] [Chip](https://material-ui.com/api/chip/#css)
 - [ ] CircularProgress
 - [ ] ClickAwayListener
-- [x] [Collapse](https://material-ui.com/api/collapse/#css-api)
+- [x] [Collapse](https://material-ui.com/api/collapse/#css)
 - [ ] CssBaseline
 - [ ] Dialog
 - [ ] DialogActions
@@ -83,16 +83,16 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] DialogTitle
 - [ ] Divider
 - [ ] Drawer
-- [x] [ExpansionPanel](https://material-ui.com/api/expansion-panel/#css-api)
+- [x] [ExpansionPanel](https://material-ui.com/api/expansion-panel/#css)
 - [ ] ExpansionPanelActions
 - [ ] ExpansionPanelDetails
 - [ ] ExpansionPanelSummary
 - [x] [Fab](https://material-ui.com/api/fab/#fab-api)
 - [ ] Fade
-- [x] [FormControl](https://material-ui.com/api/form-control/#css-api)
+- [x] [FormControl](https://material-ui.com/api/form-control/#css)
 - [ ] FormControlLabel
 - [ ] FormGroup
-- [x] [FormHelperText](https://material-ui.com/api/form-helper-text/#css-api)
+- [x] [FormHelperText](https://material-ui.com/api/form-helper-text/#css)
 - [ ] FormLabel
 - [ ] Grid
 - [ ] GridList
@@ -100,39 +100,39 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] GridListTileBar
 - [ ] Grow
 - [ ] Hidden
-- [x] [Icon](https://material-ui.com/api/icon/#css-api)
+- [x] [Icon](https://material-ui.com/api/icon/#css)
 - [ ] IconButton
-- [x] [Input](https://material-ui.com/api/input/#css-api)
+- [x] [Input](https://material-ui.com/api/input/#css)
 - [ ] InputAdornment
-- [x] [InputLabel](https://material-ui.com/api/input-label/#css-api)
+- [x] [InputLabel](https://material-ui.com/api/input-label/#css)
 - [ ] LinearProgress
-- [x] [List](https://material-ui.com/api/list/#css-api)
+- [x] [List](https://material-ui.com/api/list/#css)
 - [ ] ListItem
 - [ ] ListItemAvatar
 - [ ] ListItemIcon
 - [ ] ListItemSecondaryAction
 - [ ] ListItemText
 - [ ] ListSubheader
-- [x] [Menu](https://material-ui.com/api/menu/#css-api)
-- [x] [MenuItem](https://material-ui.com/api/menu-item/#css-api)
-- [x] [MenuList](https://material-ui.com/api/menu-list/#css-api)
+- [x] [Menu](https://material-ui.com/api/menu/#css)
+- [x] [MenuItem](https://material-ui.com/api/menu-item/#css)
+- [x] [MenuList](https://material-ui.com/api/menu-list/#css)
 - [ ] MobileStepper
 - [ ] Modal
 - [ ] MuiThemeProvider
 - [ ] NativeSelect
 - [ ] NoSsr
-- [x] [OutlinedInput](https://material-ui.com/api/outlined-input/#css-api)
-- [x] [Paper](https://material-ui.com/api/paper/#css-api)
+- [x] [OutlinedInput](https://material-ui.com/api/outlined-input/#css)
+- [x] [Paper](https://material-ui.com/api/paper/#css)
 - [ ] Popover
 - [ ] Popper
 - [ ] Portal
 - [ ] Radio
 - [ ] RadioGroup
 - [ ] RootRef
-- [x] [Select](https://material-ui.com/api/select/#css-api)
+- [x] [Select](https://material-ui.com/api/select/#css)
 - [ ] Slide
-- [ ] Snackbar
-- [ ] SnackbarContent
+- [x] [Snackbar](https://material-ui.com/api/snackbar/#css)
+- [x] [SnackbarContent](https://material-ui.com/api/snackbar-content/#css)
 - [ ] Step
 - [ ] StepButton
 - [ ] StepConnector
@@ -140,22 +140,22 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] StepIcon
 - [ ] StepLabel
 - [ ] Stepper
-- [x] [SvgIcon](https://material-ui.com/api/svg-icon/#css-api)
+- [x] [SvgIcon](https://material-ui.com/api/svg-icon/#css)
 - [ ] SwipeableDrawer
 - [ ] Switch
 - [ ] Tab
-- [x] [Table](https://material-ui.com/api/table/#css-api)
-- [x] [TableBody](https://material-ui.com/api/table-body/#css-api)
-- [x] [TableCell](https://material-ui.com/api/table-cell/#css-api)
-- [x] [TableFooter](https://material-ui.com/api/table-footer/#css-api)
-- [x] [TableHead](https://material-ui.com/api/table-head/#css-api)
+- [x] [Table](https://material-ui.com/api/table/#css)
+- [x] [TableBody](https://material-ui.com/api/table-body/#css)
+- [x] [TableCell](https://material-ui.com/api/table-cell/#css)
+- [x] [TableFooter](https://material-ui.com/api/table-footer/#css)
+- [x] [TableHead](https://material-ui.com/api/table-head/#css)
 - [ ] TablePagination
-- [x] [TableRow](https://material-ui.com/api/table-row/#css-api)
+- [x] [TableRow](https://material-ui.com/api/table-row/#css)
 - [ ] TableSortLabel
 - [ ] Tabs
-- [x] [TextField](https://material-ui.com/api/text-field/#css-api)
+- [x] [TextField](https://material-ui.com/api/text-field/#css)
 - [ ] Toolbar
 - [ ] Tooltip
-- [x] [TouchRipple](https://material-ui.com/api/touch-ripple/#css-api)
+- [x] [TouchRipple](https://material-ui.com/api/touch-ripple/#css)
 - [ ] Typography
 - [ ] Zoom

@@ -18,6 +18,8 @@ export { default as MenuList } from "./MenuList";
 export { default as OutlinedInput } from "./OutlinedInput";
 export { default as Paper } from "./Paper";
 export { default as Select } from "./Select";
+export { default as Snackbar } from "./Snackbar";
+export { default as SnackbarContent } from "./SnackbarContent";
 export { default as SvgIcon } from "./SvgIcon";
 export { default as Table } from "./Table";
 export { default as TableBody } from "./TableBody";
