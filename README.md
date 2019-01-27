@@ -157,5 +157,5 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] Toolbar
 - [ ] Tooltip
 - [x] [TouchRipple](https://material-ui.com/api/touch-ripple/#css)
-- [ ] Typography
+- [x] [Typography](https://material-ui.com/api/typography/#css)
 - [ ] Zoom
