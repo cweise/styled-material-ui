@@ -143,7 +143,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [x] [SvgIcon](https://material-ui.com/api/svg-icon/#css)
 - [ ] SwipeableDrawer
 - [ ] Switch
-- [ ] Tab
+- [x] [Tab](https://material-ui.com/api/tab/#css)
 - [x] [Table](https://material-ui.com/api/table/#css)
 - [x] [TableBody](https://material-ui.com/api/table-body/#css)
 - [x] [TableCell](https://material-ui.com/api/table-cell/#css)
@@ -152,7 +152,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] TablePagination
 - [x] [TableRow](https://material-ui.com/api/table-row/#css)
 - [ ] TableSortLabel
-- [ ] Tabs
+- [x] [Tabs](https://material-ui.com/api/tabs/#css)
 - [x] [TextField](https://material-ui.com/api/text-field/#css)
 - [ ] Toolbar
 - [ ] Tooltip
