@@ -155,7 +155,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [x] [Tabs](https://material-ui.com/api/tabs/#css)
 - [x] [TextField](https://material-ui.com/api/text-field/#css)
 - [ ] Toolbar
-- [ ] Tooltip
+- [x] [Tooltip](https://material-ui.com/api/tooltip/#css)
 - [x] [TouchRipple](https://material-ui.com/api/touch-ripple/#css)
 - [x] [Typography](https://material-ui.com/api/typography/#css)
 - [ ] Zoom
