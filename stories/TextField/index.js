@@ -3,10 +3,15 @@ import React from "react";
 import { storiesOf } from "@storybook/react";
 import styled from "styled-components";
 import TextField from "../../src/TextField";
+import Selectors from "../../src/Selectors";
 
 const StyledTextField = styled(TextField)`
-  .root {
-    border: 2px solid rgba(11, 12, 53, 1);
+  ${Selectors.TextField.Root} {
+    background-color: orange;
+  }
+
+  ${Selectors.TextField.BorderBottom} {
+    border-bottom: 1px solid green;
   }
 `;
 

@@ -20,9 +20,10 @@ We write all component keys from the Material UI documentation as CSS classes to
 import React from "react";
 import styled from "styled-components";
 import { TextField } from "@thepeaklab/styled-material-ui";
+import Selectors from "@thepeaklab/styled-material-ui/Selectors";
 
 const StyledTextField = styled(TextField)`
-  & .input {
+  ${Selectors.TextField.Input} {
     background-color: #eeeeee;
   }
 `;
@@ -36,13 +37,14 @@ export default () => <StyledTextField name="my-textfield" />;
 import React from "react";
 import styled from "styled-components";
 import { Button } from "@thepeaklab/styled-material-ui";
+import Selectors from "@thepeaklab/styled-material-ui/Selectors";
 
 const StyledButton = styled(Button)`
-  &.root {
+  ${Selectors.Button.Root} {
     border-radius: 10px;
   }
 
-  &.containedPrimary {
+  ${Selectors.Button.ContainedPrimary} {
     background-color: #eeeeee;
 
     &:hover {
