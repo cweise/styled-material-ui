@@ -12,7 +12,7 @@ export { default as Icon } from "./Icon";
 export { default as Input } from "./Input";
 export { default as InputLabel } from "./InputLabel";
 export { default as List } from "./List";
-export { default as ListItemText } from "./List";
+export { default as ListItemText } from "./ListItemText";
 export { default as Menu } from "./Menu";
 export { default as MenuItem } from "./MenuItem";
 export { default as MenuList } from "./MenuList";
