@@ -113,7 +113,7 @@ export default () => <StyledButton color="primary" variant="contained" />;
 - [ ] ListItemAvatar
 - [ ] ListItemIcon
 - [ ] ListItemSecondaryAction
-- [ ] ListItemText
+- [x] [ListItemText](https://material-ui.com/api/list-item-text/#css)
 - [ ] ListSubheader
 - [x] [Menu](https://material-ui.com/api/menu/#css)
 - [x] [MenuItem](https://material-ui.com/api/menu-item/#css)

@@ -41,4 +41,16 @@ describe("Selectors", () => {
       expect(Selectors.Button.ContainedPrimary).toEqual(expectedSelector);
     });
   });
+
+  describe("ListItemText", () => {
+    test("Primary", () => {
+      const expectedSelector = "& .primary";
+      expect(Selectors.ListItemText.Primary).toEqual(expectedSelector);
+    });
+
+    test("Secondary", () => {
+      const expectedSelector = "& .secondary";
+      expect(Selectors.ListItemText.Secondary).toEqual(expectedSelector);
+    });
+  });
 });

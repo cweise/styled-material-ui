@@ -11,5 +11,9 @@ export default {
   Button: {
     Root: "&.root",
     ContainedPrimary: "&.containedPrimary"
+  },
+  ListItemText: {
+    Primary: "& .primary",
+    Secondary: "& .secondary"
   }
 };
