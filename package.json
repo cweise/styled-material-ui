@@ -1,6 +1,6 @@
 {
   "name": "@thepeaklab/styled-material-ui",
-  "version": "0.2.29",
+  "version": "0.2.30",
   "description": "Styled material ui components",
   "main": "./lib/index.js",
   "scripts": {
